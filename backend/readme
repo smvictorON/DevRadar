@@ -1,1 +1,3 @@
 backend com MongoDB e WebSocket 
+
+yarn dev para iniciar
